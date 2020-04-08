@@ -8,6 +8,7 @@ Youtube : https://www.youtube.com/channel/UCZ_ppGCvgpMwkJPOrhv4_GA?view_as=subsc
 
 Anon-Random-Password-Generator은 입력한 값의(길이) 패스워드를 생성하는 도구입니다
 온라인 계정의 비밀번호 혹은 일회용 비밀번호 생성시에 사용될수 있습니다
+
 Anon-Random-Password-Generator is a tool to generate (length) password of the entered value
 Can be used to create passwords for online accounts or one-time passwords
 
