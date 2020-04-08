@@ -35,4 +35,6 @@ The most basic password generation method is not to use numbers or words related
 # Install Linux
 1.git-clone https://github.com/AnonZeroLinux/-Anon-Random-Password-Generator.git
 
+2.chmod +x [Anon]Random Password Generator.py
+
 2.run - python [Anon]Random Password Generator.py
