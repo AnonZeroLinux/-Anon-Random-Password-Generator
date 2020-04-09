@@ -1,4 +1,4 @@
-# -Anon-Random-Password-Generator
+# Anon-Random-Password-Generator
 
 By Anon
 
